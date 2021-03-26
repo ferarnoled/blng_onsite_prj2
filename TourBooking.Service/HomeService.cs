@@ -1,7 +1,6 @@
 ﻿namespace TourBooking.Service
 {
 	using System;
-	using System.ComponentModel;
 	using System.Net;
 	using RestSharp;
 	using Newtonsoft.Json.Linq;
