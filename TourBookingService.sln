@@ -7,8 +7,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TourBooking.Api", "TourBook
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TourBooking.Service", "TourBooking.Service\TourBooking.Service.csproj", "{D7298A39-7538-4582-9612-29BF7E5DC6DE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TourBooking.Core", "TourBooking.Core\TourBooking.Core.csproj", "{8DF36330-700F-4E79-9560-3685A796E04B}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,10 +21,6 @@ Global
 		{D7298A39-7538-4582-9612-29BF7E5DC6DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D7298A39-7538-4582-9612-29BF7E5DC6DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D7298A39-7538-4582-9612-29BF7E5DC6DE}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8DF36330-700F-4E79-9560-3685A796E04B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8DF36330-700F-4E79-9560-3685A796E04B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8DF36330-700F-4E79-9560-3685A796E04B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8DF36330-700F-4E79-9560-3685A796E04B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
